@@ -3,17 +3,15 @@
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
+	- Java ❤️
+	- Some PHP
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
+	- MySQL
   - Express
   - NodeJS  
 - **Shell Scripting**
@@ -26,7 +24,7 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Data Science**
+- **Python**
 - **AI**
 <br/>
   <br/>
